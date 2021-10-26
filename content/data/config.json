@@ -3,7 +3,7 @@
     "path_prefix": "/",
     "header": {
         "title": "Mike Tan",
-        "has_nav": true,
+        "has_nav": false,
         "nav_links": [
             {
                 "label": "Features",
